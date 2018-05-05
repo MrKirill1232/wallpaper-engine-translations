@@ -11,6 +11,8 @@
 	"core_tray_faq" : "Помощь и FAQ",
 	"core_tray_recent_wallpapers_clear" : "Очистить список",
 	"core_tray_next_wallpaper" : "Следующие обои",
+	"core_tray_mute" : "Заглушить",
+	"core_tray_unmute" : "Воспроизвести",
 	
 	"core_balloon_info" : "Чтобы выбрать обои щёлкните два раза по иконке Wallpaper Engine в области уведомлений.",
 	"core_balloon_desktop_window_error" : "Ошибка подготовки рабочего стола к живым обоям.",
